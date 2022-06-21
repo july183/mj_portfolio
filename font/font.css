@@ -1,0 +1,57 @@
+/* 210 에브리바디 font */
+@font-face { 
+    font-family: 'everybodyR';  
+    font-style: normal;
+    src:url(/mj_intro/font/everybodyR.eot); 
+    src:url(/mj_intro/font/everybodyR.eot?#iefix) format('embedded-opentype'), 
+    url(/mj_intro/font/everybodyR.woff) format('woff'), 
+    url(/mj_intro/font/everybodyR.ttf) format('truetype');
+    src:local(※), url(/mj_intro/font/everybodyR.woff) format('woff'); 
+    }
+@font-face { 
+    font-family: 'everybodyB';  
+    font-style: normal;
+    src:url(/mj_intro/font/everybodyB.eot); 
+    src:url(/mj_intro/font/everybodyB.eot?#iefix) format('embedded-opentype'), 
+    url(/mj_intro/font/everybodyB.woff) format('woff'), 
+    url(/mj_intro/font/everybodyB.ttf) format('truetype');
+    src:local(※), url(/mj_intro/font/everybodyB.woff) format('woff'); 
+    }
+
+
+/* 210 옵니굴림 font */
+@font-face { 
+    font-family: 'omnigulim1';
+    font-style: normal;
+    src:url(/mj_intro/font/omnigulim1.eot);
+    src:url(/mj_intro/font/omnigulim1.eot?#iefix) format('embedded-opentype'), 
+    url(/mj_intro/font/omnigulim1.woff) format('woff'), 
+    url(/mj_intro/font/omnigulim1.ttf) format('truetype'); 
+    src:local(※), url(/mj_intro/font/omnigulim1.woff) format('woff'); 
+    }
+@font-face { 
+    font-family: 'omnigulim3';
+    font-style: normal;
+    src:url(/mj_intro/font/omnigulim3.eot);
+    src:url(/mj_intro/font/omnigulim3.eot?#iefix) format('embedded-opentype'), 
+    url(/mj_intro/font/omnigulim3.woff) format('woff'), 
+    url(/mj_intro/font/omnigulim3.ttf) format('truetype'); 
+    src:local(※), url(/mj_intro/font/omnigulim3.woff) format('woff'); 
+    }
+
+
+/* 눈누 font */
+/* 엘리스 디지털코딩체 */
+@font-face {
+    font-family: 'EliceDigitalBaeum';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_elice@1.0/EliceDigitalBaeum.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'EliceDigitalBaeum_Regular';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_220508@1.0/EliceDigitalBaeum_Regular.woff2') format('woff2');
+    font-weight: 400;
+    font-style: normal;
+}
+
